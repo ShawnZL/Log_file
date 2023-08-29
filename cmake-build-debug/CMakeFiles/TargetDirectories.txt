@@ -1,0 +1,3 @@
+/Users/shawnzhao/Code/Log_file/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shawnzhao/Code/Log_file/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shawnzhao/Code/Log_file/cmake-build-debug/CMakeFiles/Log_file.dir
